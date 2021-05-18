@@ -1,4 +1,4 @@
-# Projeto_Independente
+# Projeto_Independente (Nome a ser definido ainda)
 Little project by students of Computer Science Bachelor's Degree from IFSP - SJBV.
 The ideia of the project was to recreate a Music Streaming Platform, like Spotify and Apple Music, using not only Front-End but also Back-End.
 All the files and codes of the project will be saved here on this repository.

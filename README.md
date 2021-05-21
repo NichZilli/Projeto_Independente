@@ -1,11 +1,11 @@
-# Projeto_Independente (Nome a ser definido ainda)
+# Projetos Independentes 
 
-## Little project by students of Computer Science Bachelor's Degree from IFSP - SJBV.
+## Little projects by students of Computer Science Bachelor's Degree from IFSP - SJBV.
 
-The ideia of the project was to recreate a Music Streaming Platform, like Spotify and Apple Music, using not only Front-End but also Back-End.
-All the files and codes of the project will be saved here on this repository.
+On this repository it will be stored all the developed projects by the students, with the main point to go deeper and learn about new technologies and specific tools inside of
+Computer Science, based in front-end, back-end, database, APIs, etc.
 
-## Pequeno projeto de estudantes do Bacharelado em Ciência da Computação do IFSP - SJBV.
+## Pequenos projetos de estudantes do Bacharelado em Ciência da Computação do IFSP - SJBV.
 
-A ideia do projeto é recriar uma plataforma de streaming de música, como o Spotify e o Apple Music, usando não somente o Front-End como também o Back-End.
-Todos os arquivos e códigos do projeto serão salvos neste respositório.
+Neste repositório irá ficar armazenado todos os projetos desenvolvidos pelos estudantes, com a ideia de divulgar e aprofundar sobre tecnologias e ferramentas específicas dentro da 
+computação, a partir de densenvolvimento em front-end, back-end, banco de dados, APIs, etc.
